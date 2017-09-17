@@ -3,8 +3,15 @@
   "model": "",
   "transmission": "manual|automatic",
   "type": "front|rear|all",
+  "images": [
+    {
+      "url": "manufacturer/model/1.png",
+      "main": true
+    }
+  ],
   "stages": [
     {
+      "title": "Seria",
       "description": "",
       "isStock": true,
       "youtubeId": "xxxx",
