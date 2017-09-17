@@ -30,7 +30,8 @@
           "youtubeId": "ZXM0Kpjq1AQ",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 16
               ]
             }
@@ -43,7 +44,8 @@
           "youtubeId": "ZXM0Kpjq1AQ",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 15.419,
                 14.7,
                 14.414
@@ -58,12 +60,14 @@
           "youtubeId": "VfGrg4iWHqM",
           "timings": [
             {
-              "0-100": [
+              "range": "0-100",
+              "seconds": [
                 4.797
               ]
             },
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 13.767,
                 13.406
               ]
@@ -107,13 +111,15 @@
           "youtubeId": "JrW8k4O_mzE",
           "timings": [
             {
-              "0-100": [
+              "range": "0-100",
+              "seconds": [
                 5.101,
                 5.412
               ]
             },
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 10.646
               ]
             }
@@ -126,7 +132,8 @@
           "youtubeId": "Pp9gQ6Mmywo",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 10.982,
                 11.113
               ]
@@ -174,14 +181,16 @@
           "youtubeId": "4min1hcWDP8",
           "timings": [
             {
-              "0-100": [
+              "range": "0-100",
+              "seconds": [
                 4.978,
                 4.849,
                 5.487
               ]
             },
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 12.227,
                 11.302
               ]
@@ -195,7 +204,8 @@
           "youtubeId": "mTiHdYVtvj0",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 10.701,
                 10.208
               ]
@@ -209,7 +219,8 @@
           "youtubeId": "xn2RtGLsdVg",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 9.852
               ]
             }
@@ -222,7 +233,8 @@
           "youtubeId": "uMUNIijaWgc",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 9.3,
                 9.5
               ]
@@ -236,7 +248,8 @@
           "youtubeId": "ys3x43wtuJQ",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 8.999,
                 8.397,
                 8.487
@@ -273,7 +286,8 @@
           "youtubeId": "2U1gsUpG4nY",
           "timings": [
             {
-              "40-80": [
+              "range": "40-80",
+              "seconds": [
                 6.9,
                 8.8
               ]
@@ -287,7 +301,8 @@
           "youtubeId": "2U1gsUpG4nY",
           "timings": [
             {
-              "40-80": [
+              "range": "40-80",
+              "seconds": [
                 6.2,
                 6.2,
                 5.1
@@ -332,7 +347,8 @@
           "youtubeId": "88g1Uqe6njA",
           "timings": [
             {
-              "100-200": [
+              "range": "100-200",
+              "seconds": [
                 15.563,
                 13.604
               ]

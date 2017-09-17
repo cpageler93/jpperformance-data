@@ -17,12 +17,14 @@
       "youtubeId": "xxxx",
       "timings": [
         {
-          "0-100": [
+          "range": "0-100",
+          "seconds": [
             5.1
           ]
         },
         {
-          "100-200": [
+          "range": "100-200",
+          "seconds": [
             11.2
           ]
         }
