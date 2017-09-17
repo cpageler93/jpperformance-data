@@ -1,3 +1,153 @@
 {
-	"foo": "bar"
+  "cars": [
+    {
+      "manufacturer": "Porsche",
+      "model": "964",
+      "transmission": "manual",
+      "type": "rear",
+      "stages": [
+        {
+          "description": "Serie, 3.8L Umbau(Kolben, Pleuel, Zylinder) , Serien AGA, Serien Katalysator, Serien Ansaugung, Alles Serie",
+          "isStock": true,
+          "youtubeId": null, // TODO
+          "timings": [
+            {
+              "100-200": [
+                14.7 // TODO
+              ]
+            }
+          ]
+        },
+        {
+          "description": "HJS Metallkatalysator, 200 Zellen",
+          "isStock": false,
+          "youtubeId": "VfGrg4iWHqM",
+          "timings": [
+            {
+              "0-100": [
+                4.797
+              ]
+            },
+            {
+              "100-200": [
+                13.767,
+                13.406
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Lexus",
+      "model": "RC-F",
+      "transmission": "automatic",
+      "type": "rear",
+      "stages": [
+        {
+          "description": "Serie",
+          "isStock": true,
+          "youtubeId": null, // TODO
+          "timings": [
+            {
+              "100-200": [
+                10.1 // TODO
+              ]
+            }
+          ]
+        },
+        {
+          "description": "Ansaugung (Luftfilter, Rohre)",
+          "isStock": false,
+          "youtubeId": "Pp9gQ6Mmywo",
+          "timings": [
+            {
+              "100-200": [
+                10.982,
+                11.113
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Mustang GT",
+      "transmission": "manual",
+      "type": "rear",
+      "stages": [
+        {
+          "description": "Kompressor (Stage 1)",
+          "isStock": false,
+          "youtubeId": "ys3x43wtuJQ",
+          "timings": [
+            {
+              "100-200": [
+                8.999,
+                8.397,
+                8.487
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "FIAT",
+      "model": "Multipla",
+      "transmission": "manual",
+      "type": "front",
+      "stages": [
+        {
+          "description": "Serie",
+          "isStock": true,
+          "youtubeId": "2U1gsUpG4nY",
+          "timings": [
+            {
+              "40-80": [
+                6.9,
+                8.8
+              ]
+            }
+          ]
+        },
+        {
+          "description": "NOS (Bremsenreiniger)",
+          "isStock": false,
+          "youtubeId": "2U1gsUpG4nY",
+          "timings": [
+            {
+              "40-80": [
+                6.2,
+                6.2,
+                5.1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Mini",
+      "model": "John Cooper Works",
+      "transmission": "automatic",
+      "type": "rear",
+      "stages": [
+        {
+          "description": "KW V1, Sparco Felgen, Software (310PS 444NM), Downpipe, Filter, Ansaugung, Klappen AGA (Die legale Version, über Steuergerät, Kein Knopf ;), So Legal Legal)",
+          "isStock": false,
+          "youtubeId": "88g1Uqe6njA",
+          "timings": [
+            {
+              "100-200": [
+                15.563,
+                13.604
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

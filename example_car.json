@@ -1,0 +1,25 @@
+{
+  "manufacturer": "",
+  "model": "",
+  "transmission": "manual|automatic",
+  "type": "front|rear|all",
+  "stages": [
+    {
+      "description": "",
+      "isStock": true,
+      "youtubeId": "xxxx",
+      "timings": [
+        {
+          "0-100": [
+            5.1
+          ]
+        },
+        {
+          "100-200": [
+            11.2
+          ]
+        }
+      ]
+    }
+  ]
+}
