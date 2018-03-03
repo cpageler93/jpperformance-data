@@ -4,7 +4,7 @@
   },
   "cars": [
     {
-      "manufacturer": "Porsche",
+      "manufacturer": "Porsche Test",
       "model": "964",
       "transmission": "manual",
       "type": "rear",
