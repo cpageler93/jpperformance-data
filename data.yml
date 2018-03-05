@@ -47,7 +47,7 @@ cars:
   transmission: automatic
   type: all
   images:
-  - url: images/no_image.png
+  - url: images/no_image.jpg
     main: true
   stages:
   - title: Software Upgradelader und Y-Pipe

@@ -3,7 +3,7 @@
   transmission: manual
   type: rear
   images:
-  - url: images/no_image.png
+  - url: images/no_image.jpg
     main: true
   stages:
   - title: Serie
