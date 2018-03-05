@@ -77,7 +77,7 @@
       "manufacturer": "Porsche",
       "model": "911 Turbo",
       "transmission": "automatic",
-      "type": "four",
+      "type": "all",
       "images": [
         {
           "url": "images/no_image.png",
