@@ -70,6 +70,26 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Luftfilter + Felgen",
+          "description": "K&N Luftfilter + Felgen",
+          "isStock": false,
+          "youtubeId": "i_jIaDN3Owk",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                5.198
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                12.674
+              ]
+            }
+          ]
         }
       ]
     },
@@ -88,7 +108,7 @@
         {
           "title": "Software Upgradelader und Y-Pipe",
           "description": "",
-          "isStock": true,
+          "isStock": false,
           "youtubeId": "CuCDDNLnwbQ",
           "timings": [
             {
@@ -97,6 +117,381 @@
                 5.5,
                 5.3,
                 5.2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "R8 V10 Plus",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "4ljyMqU7KNA",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                6.699
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ansaugung",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "HES7mjykdX4",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                7.5,
+                7.2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "A1 1.6 TDI",
+      "transmission": "manual",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "UjsZ_-DaFIg",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                11.6,
+                11.2
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "UjsZ_-DaFIg",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                9.0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "TT RS",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "nl0sYThTlVw",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                9.706
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ansaugung",
+          "description": "Eventuri",
+          "isStock": false,
+          "youtubeId": "nl0sYThTlVw",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                9.271
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "A4 B5",
+      "transmission": "manual",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "??",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "negqVg91Zhs",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                4.91,
+                5.188
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                9.408
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf 4 TDI",
+      "transmission": "manual",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "??",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "q9llNVNdSiU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                15.5,
+                15.4
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf 7 GTI",
+      "transmission": "automatic",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "??",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "wLY89119Yhs",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                8.3,
+                7.6
+              ]
+            }
+          ]
+        },
+        {
+          "title": "??",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "sfIZYEX6na4",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                8.1
+              ]
+            }
+          ]
+        },
+        {
+          "title": "??",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "MD5eeB-h2_Y",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                7.567,
+                7.42
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "GTI Clubsport S",
+      "transmission": "automatic",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "??",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "iUrS5O8PjJA",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                14.849,
+                14.03,
+                13.088
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Volkswagen",
+      "model": "Golf 7 (5 Zylinder Turbo)",
+      "transmission": "automatic",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "??",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "u81k-QoLMaY",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                8.393,
+                7.739
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M2",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Abgasanlage",
+          "description": "AGA + Downpipe + Wagner LLK",
+          "isStock": false,
+          "youtubeId": "ug_88WVn4gQ",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                10.145,
+                9.358
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Mercedes",
+      "model": "C63 AMG",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Box, Ansaugung",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "Ls_-NqzRyY0",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                3.785,
+                4.052,
+                4.166
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                7.545,
+                6.192
               ]
             }
           ]
@@ -163,6 +558,36 @@
               "seconds": [
                 10.982,
                 11.113
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Zwischenstand",
+          "description": "Papierluftfilter, Fächerkrümmer, Armytrix, Zwischensteuergerät (Aufhebung der Geschw. Begr.)",
+          "isStock": false,
+          "youtubeId": "2Zp-Qm3wJkA",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                10.329
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Abgasanlage",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "5wPJn7fsOis",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                10.183,
+                10.393,
+                10.363
               ]
             }
           ]
@@ -255,7 +680,7 @@
         },
         {
           "title": "Stage 3",
-          "description": "VooDoo Ansaugbrücke GT350, Benzinpumpe, Zeiten aus Video von \"Serie + Kompressor\" (3:08)",
+          "description": "VooDoo Ansaugbrücke GT350, Benzinpumpe, Zeiten aus Video von 'Serie + Kompressor' (3:08)",
           "isStock": false,
           "youtubeId": "uMUNIijaWgc",
           "timings": [
@@ -280,6 +705,70 @@
                 8.999,
                 8.397,
                 8.487
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Krümmer + Downpipe",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "nw-N2Uy-tB0",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                6.94
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ladedruck + Zündung",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "KzkPFPTGfQo",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                4.912
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                7.295
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Mustang GT Cabrio",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Kompressor-Kit",
+          "description": "Käfer für Extrapower",
+          "isStock": true,
+          "youtubeId": "n2gOe-Ou3E0",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                10.001,
+                8.918,
+                8.986
               ]
             }
           ]
@@ -378,6 +867,36 @@
               "seconds": [
                 15.563,
                 13.604
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "Skyline R34 GT-R",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "??",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "jwZplM1x39Y",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                6.86,
+                6.49,
+                5.99
               ]
             }
           ]
