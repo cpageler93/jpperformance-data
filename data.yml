@@ -42,6 +42,24 @@ cars:
       seconds:
       - 13.767
       - 13.406
+- manufacturer: Porsche
+  model: 911 Turbo
+  transmission: automatic
+  type: four
+  images:
+  - url: images/no_image.png
+    main: true
+  stages:
+  - title: Software Upgradelader und Y-Pipe
+    description: ''
+    isStock: true
+    youtubeId: CuCDDNLnwbQ
+    timings:
+    - range: 100-200
+      seconds:
+      - 5.500
+      - 5.300
+      - 5.200
 - manufacturer: Lexus
   model: RC-F
   transmission: automatic

@@ -1,0 +1,16 @@
+- manufacturer: Manufacturer
+  model: Model
+  transmission: manual
+  type: rear
+  images:
+  - url: images/no_image.png
+    main: true
+  stages:
+  - title: Serie
+    description: ''
+    isStock: true
+    youtubeId: xyz
+    timings:
+    - range: 100-200
+      seconds:
+      - 123
