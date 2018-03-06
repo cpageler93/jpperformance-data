@@ -7,15 +7,15 @@
       "type": "rear",
       "images": [
         {
-          "url": "images/porsche/964/1.png",
+          "url": "images/porsche/964/1.jpg",
           "main": true
         },
         {
-          "url": "images/porsche/964/2.png",
+          "url": "images/porsche/964/2.jpg",
           "main": false
         },
         {
-          "url": "images/porsche/964/3.png",
+          "url": "images/porsche/964/3.jpg",
           "main": false
         }
       ],
@@ -505,23 +505,23 @@
       "type": "rear",
       "images": [
         {
-          "url": "images/lexus/rcf/1.png",
+          "url": "images/lexus/rcf/1.jpg",
           "main": true
         },
         {
-          "url": "images/lexus/rcf/2.png",
+          "url": "images/lexus/rcf/2.jpg",
           "main": false
         },
         {
-          "url": "images/lexus/rcf/3.png",
+          "url": "images/lexus/rcf/3.jpg",
           "main": false
         },
         {
-          "url": "images/lexus/rcf/4.png",
+          "url": "images/lexus/rcf/4.jpg",
           "main": false
         },
         {
-          "url": "images/lexus/rcf/5.png",
+          "url": "images/lexus/rcf/5.jpg",
           "main": false
         }
       ],
@@ -601,27 +601,27 @@
       "type": "rear",
       "images": [
         {
-          "url": "images/ford/mustang_gt/1.png",
+          "url": "images/ford/mustang_gt/1.jpg",
           "main": false
         },
         {
-          "url": "images/ford/mustang_gt/2.png",
+          "url": "images/ford/mustang_gt/2.jpg",
           "main": false
         },
         {
-          "url": "images/ford/mustang_gt/3.png",
+          "url": "images/ford/mustang_gt/3.jpg",
           "main": true
         },
         {
-          "url": "images/ford/mustang_gt/4.png",
+          "url": "images/ford/mustang_gt/4.jpg",
           "main": false
         },
         {
-          "url": "images/ford/mustang_gt/5.png",
+          "url": "images/ford/mustang_gt/5.jpg",
           "main": false
         },
         {
-          "url": "images/ford/mustang_gt/7.png",
+          "url": "images/ford/mustang_gt/7.jpg",
           "main": false
         }
       ],
@@ -782,15 +782,15 @@
       "type": "front",
       "images": [
         {
-          "url": "images/fiat/multipla/1.png",
+          "url": "images/fiat/multipla/1.jpg",
           "main": true
         },
         {
-          "url": "images/fiat/multipla/2.png",
+          "url": "images/fiat/multipla/2.jpg",
           "main": false
         },
         {
-          "url": "images/fiat/multipla/3.png",
+          "url": "images/fiat/multipla/3.jpg",
           "main": false
         }
       ],
@@ -835,23 +835,23 @@
       "type": "rear",
       "images": [
         {
-          "url": "images/mini/jcw/1.png",
+          "url": "images/mini/jcw/1.jpg",
           "main": false
         },
         {
-          "url": "images/mini/jcw/2.png",
+          "url": "images/mini/jcw/2.jpg",
           "main": true
         },
         {
-          "url": "images/mini/jcw/3.png",
+          "url": "images/mini/jcw/3.jpg",
           "main": false
         },
         {
-          "url": "images/mini/jcw/4.png",
+          "url": "images/mini/jcw/4.jpg",
           "main": false
         },
         {
-          "url": "images/mini/jcw/5.png",
+          "url": "images/mini/jcw/5.jpg",
           "main": false
         }
       ],
