@@ -59,11 +59,11 @@ cars:
   type: all
   images:
   - url: images/porsche/911_turbo/1.jpg
-    main: true
+    main: false
   - url: images/porsche/911_turbo/2.jpg
     main: false
   - url: images/porsche/911_turbo/3.jpg
-    main: false
+    main: true
   - url: images/porsche/911_turbo/4.jpg
     main: false
   - url: images/porsche/911_turbo/5.jpg
