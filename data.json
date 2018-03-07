@@ -319,6 +319,21 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Nockenwellen",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "VAdgn69L3C8",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                7.691,
+                8.01
+              ]
+            }
+          ]
         }
       ]
     },
