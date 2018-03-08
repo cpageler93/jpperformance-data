@@ -119,7 +119,7 @@ cars:
   transmission: manual
   type: front
   images:
-  - url: images/no_image.jpg
+  - url: images/audi/a1_16_tdi/1.jpg
     main: true
   stages:
   - title: Serie
@@ -144,8 +144,14 @@ cars:
   transmission: automatic
   type: all
   images:
-  - url: images/no_image.jpg
+  - url: images/audi/tt_rs/1.jpg
     main: true
+  - url: images/audi/tt_rs/2.jpg
+    main: false
+  - url: images/audi/tt_rs/3.jpg
+    main: false
+  - url: images/audi/tt_rs/4.jpg
+    main: false
   stages:
   - title: Serie
     description: ""
@@ -168,8 +174,12 @@ cars:
   transmission: manual
   type: all
   images:
-  - url: images/no_image.jpg
+  - url: images/audi/a4_b5/1.jpg
     main: true
+  - url: images/audi/a4_b5/2.jpg
+    main: false
+  - url: images/audi/a4_b5/3.jpg
+    main: false
   stages:
   - title: "??"
     description: ""
@@ -283,9 +293,29 @@ cars:
   transmission: automatic
   type: rear
   images:
-  - url: images/no_image.jpg
+  - url: images/bmw/m2/1.jpg
     main: true
+  - url: images/bmw/m2/2.jpg
+    main: false
+  - url: images/bmw/m2/3.jpg
+    main: false
+  - url: images/bmw/m2/4.jpg
+    main: false
+  - url: images/bmw/m2/5.jpg
+    main: false
   stages:
+  - title: Serie
+    description: ""
+    isStock: true
+    youtubeId: NDe9Wn1uwAc
+    timings:
+    - range: 0-100
+      seconds:
+      - 4.730
+    - range: 100-200
+      seconds:
+        - 11.965
+        - 11.546
   - title: Abgasanlage
     description: "AGA + Downpipe + Wagner LLK"
     isStock: false
