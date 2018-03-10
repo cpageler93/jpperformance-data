@@ -589,7 +589,15 @@ cars:
   transmission: manual
   type: rear
   images:
-  - url: images/no_image.jpg
+  - url: images/nissan/skyline_r34_gtr/1.jpg
+    main: true
+  - url: images/nissan/skyline_r34_gtr/2.jpg
+    main: false
+  - url: images/nissan/skyline_r34_gtr/3.jpg
+    main: true
+  - url: images/nissan/skyline_r34_gtr/4.jpg
+    main: true
+  - url: images/nissan/skyline_r34_gtr/5.jpg
     main: true
   stages:
   - title: "??"
