@@ -330,9 +330,29 @@ cars:
   transmission: automatic
   type: rear
   images:
-  - url: images/no_image.jpg
+  - url: images/mercedes/c63amg/1.jpg
     main: true
+  - url: images/mercedes/c63amg/2.jpg
+    main: false
+  - url: images/mercedes/c63amg/3.jpg
+    main: false
+  - url: images/mercedes/c63amg/4.jpg
+    main: false
   stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: Oe7qUG7ccRI
+    timings:
+    - range: 0-100
+      seconds:
+      - 5.691
+      - 4.049
+      - 3.988
+    - range: 100-200
+      seconds:
+      - 9.788
+      - 9.144
   - title: "Box, Ansaugung"
     description: ""
     isStock: false
