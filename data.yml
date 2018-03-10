@@ -71,6 +71,18 @@ cars:
   - url: images/porsche/911_turbo/6.jpg
     main: false
   stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: hI_NtU8I5xw
+    timings:
+    - range: 0-100
+      seconds:
+      - 3.178
+    - range: 100-200
+      seconds:
+        - 7.396
+        - 7.421
   - title: "Software Upgradelader und Y-Pipe"
     description: ""
     isStock: false
