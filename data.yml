@@ -302,7 +302,7 @@ cars:
       - 7.420
 - manufacturer: Volkswagen
   model: "GTI Clubsport S"
-  transmission: automatic
+  transmission: manual
   type: front
   images:
   - url: images/no_image.jpg
@@ -318,6 +318,15 @@ cars:
       - 14.849
       - 14.030
       - 13.088
+  - title: "Ansaugung"
+    description: "Turbo Inlet, Ansaugsystem, Ladeluftkühler, Downpipe"
+    isStock: false
+    youtubeId: Mmqt3N5CIuc
+    timings:
+    - range: 100-200
+      seconds:
+      - 9.000
+      - 10.400
 - manufacturer: Volkswagen
   model: "Golf 7 (5 Zylinder Turbo)"
   transmission: automatic

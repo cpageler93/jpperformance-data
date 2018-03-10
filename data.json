@@ -530,7 +530,7 @@
     {
       "manufacturer": "Volkswagen",
       "model": "GTI Clubsport S",
-      "transmission": "automatic",
+      "transmission": "manual",
       "type": "front",
       "images": [
         {
@@ -551,6 +551,21 @@
                 14.849,
                 14.03,
                 13.088
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ansaugung",
+          "description": "Turbo Inlet, Ansaugsystem, Ladeluftkühler, Downpipe",
+          "isStock": false,
+          "youtubeId": "Mmqt3N5CIuc",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                9.0,
+                10.4
               ]
             }
           ]
