@@ -78,6 +78,7 @@ cars:
     timings:
     - range: 0-100
       seconds:
+      - 3.825
       - 3.178
     - range: 100-200
       seconds:
