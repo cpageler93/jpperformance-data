@@ -364,11 +364,94 @@
       "type": "front",
       "images": [
         {
-          "url": "images/no_image.jpg",
+          "url": "images/vw/golf_4_tdi/1.jpg",
           "main": true
+        },
+        {
+          "url": "images/vw/golf_4_tdi/2.jpg",
+          "main": false
+        },
+        {
+          "url": "images/vw/golf_4_tdi/3.jpg",
+          "main": false
+        },
+        {
+          "url": "images/vw/golf_4_tdi/4.jpg",
+          "main": false
         }
       ],
       "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "V7VHLvUYC-Q",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                8.893
+              ]
+            },
+            {
+              "range": "100-150",
+              "seconds": [
+                12.97,
+                11.691,
+                10.371
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Teil 1",
+          "description": "Motor, Kolben, Pleul, Nockenwellen, Turbo, Krümmer, Downpipe, Kupplung, Ladeluftkühler",
+          "isStock": false,
+          "youtubeId": "RVO5oClMhpw",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                7.081
+              ]
+            },
+            {
+              "range": "100-150",
+              "seconds": [
+                5.557,
+                4.918
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                13.753
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wasser-Methanol Einspritzung",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "OzzptKNH2_k",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                6.209,
+                6.129
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                12.804,
+                11.965
+              ]
+            }
+          ]
+        },
         {
           "title": "??",
           "description": "",
