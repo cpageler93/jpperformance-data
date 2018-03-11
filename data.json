@@ -122,9 +122,35 @@
         {
           "url": "images/porsche/911_turbo/6.jpg",
           "main": false
+        },
+        {
+          "url": "images/porsche/911_turbo/7.jpg",
+          "main": false
         }
       ],
       "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "hI_NtU8I5xw",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                3.825,
+                3.178
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                7.396,
+                7.421
+              ]
+            }
+          ]
+        },
         {
           "title": "Software Upgradelader und Y-Pipe",
           "description": "",
@@ -405,7 +431,7 @@
         },
         {
           "title": "Teil 1",
-          "description": "Motor, Kolben, Pleul, Nockenwellen, Turbo, Krümmer, Downpipe, Kupplung, Ladeluftkühler",
+          "description": "Motor, Kolben, Pleuel, Nockenwellen, Turbo, Krümmer, Downpipe, Kupplung, Ladeluftkühler",
           "isStock": false,
           "youtubeId": "RVO5oClMhpw",
           "timings": [
@@ -530,7 +556,7 @@
     {
       "manufacturer": "Volkswagen",
       "model": "GTI Clubsport S",
-      "transmission": "automatic",
+      "transmission": "manual",
       "type": "front",
       "images": [
         {
@@ -551,6 +577,21 @@
                 14.849,
                 14.03,
                 13.088
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ansaugung",
+          "description": "Turbo Inlet, Ansaugsystem, Ladeluftkühler, Downpipe",
+          "isStock": false,
+          "youtubeId": "Mmqt3N5CIuc",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                9.0,
+                10.4
               ]
             }
           ]
@@ -1139,6 +1180,123 @@
                 6.86,
                 6.49,
                 5.99
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "GT-R R35",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/nissan/gtr_r35/1.jpg",
+          "main": true
+        },
+        {
+          "url": "images/nissan/gtr_r35/2.jpg",
+          "main": false
+        },
+        {
+          "url": "images/nissan/gtr_r35/3.jpg",
+          "main": false
+        }
+      ],
+      "stages": [
+        {
+          "title": "Stage X",
+          "description": "Upgradelader, Nockenwellen, Kolben, Pleuel, Kupplung, Software",
+          "isStock": false,
+          "youtubeId": "jVU6OaEORww",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                1.5
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                4.898
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1100 HP",
+          "description": "2 bar Ladedruck",
+          "isStock": false,
+          "youtubeId": "pdZHxl9BQaY",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                3.479
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Skoda",
+      "model": "Octavia RS III TDI",
+      "transmission": "automatic",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/skoda/octavia_3_rs_tdi/1.jpg",
+          "main": true
+        },
+        {
+          "url": "images/skoda/octavia_3_rs_tdi/2.jpg",
+          "main": false
+        },
+        {
+          "url": "images/skoda/octavia_3_rs_tdi/3.jpg",
+          "main": false
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "nnO_lcbTe9s",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                10.141,
+                10.283,
+                8.75
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                43.973
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software",
+          "description": "ca. 220 PS",
+          "isStock": false,
+          "youtubeId": "nnO_lcbTe9s",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                8.2,
+                7.498,
+                8.031,
+                7.325
               ]
             }
           ]
