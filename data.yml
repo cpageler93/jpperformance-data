@@ -1,9 +1,9 @@
 ---
 sources:
-  youtubeJPPerformance:
-    title: "Youtube (JP Performance)"
-  audiDe:
-    title: "audi.de"
+#  youtubeJPPerformance:
+#    title: "Youtube (JP Performance)"
+#  audiDe:
+#    title: "audi.de"
 cars:
 - manufacturer: Porsche
   model: "964"
