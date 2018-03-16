@@ -1,5 +1,12 @@
 {
-  "sources": null,
+  "sources": {
+    "youtubeJPPerformance": {
+      "title": "Youtube (JP Performance)"
+    },
+    "audiDe": {
+      "title": "audi.de"
+    }
+  },
   "cars": [
     {
       "manufacturer": "Porsche",
