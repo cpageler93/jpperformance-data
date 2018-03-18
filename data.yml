@@ -321,6 +321,20 @@ cars:
   - url: images/no_image.jpg
     main: true
   stages:
+  - title: "Stage 4"
+    description: "Golf 7R Lader, Downpipe, Ansaugung, Wagner LLK"
+    isStock: false
+    youtubeId: ESQ1AdWXFJw
+    timings:
+    - range: 0-100
+      seconds:
+      - 5.769
+      - 5.367
+      - 5.461
+    - range: 100-200
+      seconds:
+      - 8.327
+      - 8.581
   - title: "??"
     description: ""
     isStock: false
