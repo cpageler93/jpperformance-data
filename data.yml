@@ -318,8 +318,9 @@ cars:
   transmission: automatic
   type: front
   images:
-  - url: images/no_image.jpg
+  - url: images/vw/golf_7_gti/1.jpg
     main: true
+    source: youtubeJPPerformance
   stages:
   - title: "Stage 4"
     description: "Golf 7R Lader, Downpipe, Ansaugung, Wagner LLK"
