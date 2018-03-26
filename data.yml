@@ -111,6 +111,37 @@ cars:
       - 5.500
       - 5.300
       - 5.200
+- manufacturer: Porsche
+  model: "959"
+  transmission: manual
+  type: all
+  images:
+  - url: images/porsche/959/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/porsche/959/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/959/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/959/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: eSCuqr64B4E
+    timings:
+    - range: 0-100
+      seconds:
+      - 4.800
+      - 4.700
+    - range: 100-200
+      seconds:
+      - 8.900
+      - 8.600
 - manufacturer: Audi
   model: "R8 V10 Plus"
   transmission: automatic
