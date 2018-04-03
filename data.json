@@ -1473,6 +1473,40 @@
           ]
         }
       ]
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "GT86",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "BHPa8x-2iuw",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                8.4
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                25.2
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
