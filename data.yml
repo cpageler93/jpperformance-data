@@ -73,7 +73,7 @@ cars:
     main: false
     source: youtubeJPPerformance
   - url: images/porsche/911_turbo/3.jpg
-    main: true
+    main: false
     source: youtubeJPPerformance
   - url: images/porsche/911_turbo/4.jpg
     main: false
@@ -85,6 +85,15 @@ cars:
     main: false
     source: youtubeJPPerformance
   - url: images/porsche/911_turbo/7.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/911_turbo/8.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/911_turbo/9.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/porsche/911_turbo/10.jpg
     main: false
     source: youtubeJPPerformance
   stages:
