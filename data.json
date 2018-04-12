@@ -1372,6 +1372,48 @@
       ]
     },
     {
+      "manufacturer": "Mini",
+      "model": "Cooper S",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": false
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "wwWf7-fTmbk",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                8.023
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Software",
+          "isStock": false,
+          "youtubeId": "wwWf7-fTmbk",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                6.626
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Nissan",
       "model": "Skyline R34 GT-R",
       "transmission": "manual",
