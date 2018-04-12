@@ -1031,6 +1031,64 @@
       ]
     },
     {
+      "manufacturer": "BMW",
+      "model": "M4 F82",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/bmw/m4/1.jpg",
+          "main": true,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/bmw/m4/2.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/bmw/m4/3.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/bmw/m4/4.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "pra3y-bbltM",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                9.776
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Software",
+          "isStock": false,
+          "youtubeId": "pra3y-bbltM",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                8.379
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Mercedes",
       "model": "C63 AMG",
       "transmission": "automatic",
