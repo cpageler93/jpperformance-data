@@ -1478,7 +1478,7 @@
       "images": [
         {
           "url": "images/no_image.jpg",
-          "main": false
+          "main": true
         }
       ],
       "stages": [

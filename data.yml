@@ -878,7 +878,7 @@ cars:
   type: rear
   images:
   - url: images/no_image.jpg
-    main: false
+    main: true
   stages:
   - title: "Serie"
     description: ""
