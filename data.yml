@@ -484,6 +484,22 @@ cars:
       seconds:
       - 8.393
       - 7.739
+- manufacturer: Volkswagen
+  model: "Amarok"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: Tsh6X4tO8Nk
+    timings:
+    - range: 0-100
+      seconds:
+      - 7.911
 - manufacturer: BMW
   model: M2
   transmission: automatic
