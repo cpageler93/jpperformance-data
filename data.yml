@@ -500,6 +500,38 @@ cars:
     - range: 0-100
       seconds:
       - 7.911
+- manufacturer: Volkswagen
+  model: "Golf 6 R"
+  transmission: automatic
+  type: front
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: qm-Xr6roydE
+    timings:
+    - range: 0-200
+      seconds:
+      - 24.122
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: tnRKe3KT8_8
+    timings:
+    - range: 0-200
+      seconds:
+      - 17.959
+  - title: "Stage 2"
+    description: "Abgasanlage"
+    isStock: false
+    youtubeId: 6bfxGEOPd4Y
+    timings:
+    - range: 0-200
+      seconds:
+      - 16.664
 - manufacturer: BMW
   model: M2
   transmission: automatic
@@ -550,38 +582,6 @@ cars:
       seconds:
       - 10.145
       - 9.358
-- manufacturer: Volkswagen
-  model: "Golf 6 R"
-  transmission: automatic
-  type: front
-  images:
-  - url: images/no_image.jpg
-    main: true
-  stages:
-  - title: "Serie"
-    description: ""
-    isStock: true
-    youtubeId: qm-Xr6roydE
-    timings:
-    - range: 0-200
-      seconds:
-      - 24.122
-  - title: "Stage 1"
-    description: "Software"
-    isStock: false
-    youtubeId: tnRKe3KT8_8
-    timings:
-    - range: 0-200
-      seconds:
-      - 17.959
-  - title: "Stage 2"
-    description: "Abgasanlage"
-    isStock: false
-    youtubeId: 6bfxGEOPd4Y
-    timings:
-    - range: 0-200
-      seconds:
-      - 16.664
 - manufacturer: Mercedes
   model: C63 AMG
   transmission: automatic
