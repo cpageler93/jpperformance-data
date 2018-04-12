@@ -525,6 +525,36 @@
       ]
     },
     {
+      "manufacturer": "Audi",
+      "model": "A3 1.8 T",
+      "transmission": "manual",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Stage 2",
+          "description": "Pleul, K04, Downpipe, Kupplung",
+          "isStock": false,
+          "youtubeId": "Q_FBsJlsxok",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                5.149,
+                5.245,
+                4.789
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Volkswagen",
       "model": "Golf 4 TDI",
       "transmission": "manual",
