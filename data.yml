@@ -390,6 +390,14 @@ cars:
     main: false
     source: youtubeJPPerformance
   stages:
+  - title: "Stage 2"
+    description: "ECU Box + Downpipe"
+    isStock: false
+    youtubeId: Qxom9XarcQ8
+    timings:
+    - range: 0-200
+      seconds:
+      - 19.114
   - title: "Stage 4"
     description: "Golf 7R Lader, Downpipe, Ansaugung, Wagner LLK"
     isStock: false
