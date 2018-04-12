@@ -1038,12 +1038,12 @@
       "images": [
         {
           "url": "images/bmw/m4/1.jpg",
-          "main": true,
+          "main": false,
           "source": "youtubeJPPerformance"
         },
         {
           "url": "images/bmw/m4/2.jpg",
-          "main": false,
+          "main": true,
           "source": "youtubeJPPerformance"
         },
         {
