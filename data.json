@@ -1697,6 +1697,48 @@
           ]
         }
       ]
+    },
+    {
+      "manufacturer": "Ferrari",
+      "model": "458 Speciale",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "RUIT2MJnt3w",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                7.141
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 2",
+          "description": "Software, Abgasanlage",
+          "isStock": false,
+          "youtubeId": "khz2m9Jur5k",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                6.947
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
