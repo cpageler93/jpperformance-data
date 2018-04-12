@@ -151,6 +151,31 @@ cars:
       seconds:
       - 8.900
       - 8.600
+- manufacturer: Porsche
+  model: "991 Turbo S"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: wIP7aflNB_g
+    timings:
+    - range: 0-200
+      seconds:
+      - 10.376
+      - 10.248
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: wIP7aflNB_g
+    timings:
+    - range: 0-200
+      seconds:
+      - 9.587
 - manufacturer: Audi
   model: "R8 V10 Plus"
   transmission: automatic
