@@ -151,6 +151,31 @@ cars:
       seconds:
       - 8.900
       - 8.600
+- manufacturer: Porsche
+  model: "991 Turbo S"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: wIP7aflNB_g
+    timings:
+    - range: 0-200
+      seconds:
+      - 10.376
+      - 10.248
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: wIP7aflNB_g
+    timings:
+    - range: 0-200
+      seconds:
+      - 9.587
 - manufacturer: Audi
   model: "R8 V10 Plus"
   transmission: automatic
@@ -285,6 +310,24 @@ cars:
       seconds:
       - 7.691
       - 8.010
+- manufacturer: Audi
+  model: "A3 1.8 T"
+  transmission: manual
+  type: front
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Stage 2"
+    description: "Pleul, K04, Downpipe, Kupplung"
+    isStock: false
+    youtubeId: Q_FBsJlsxok
+    timings:
+    - range: 100-150
+      seconds:
+      - 5.149
+      - 5.245
+      - 4.789
 - manufacturer: Volkswagen
   model: "Golf 4 TDI"
   transmission: manual
@@ -365,6 +408,14 @@ cars:
     main: false
     source: youtubeJPPerformance
   stages:
+  - title: "Stage 2"
+    description: "ECU Box + Downpipe"
+    isStock: false
+    youtubeId: Qxom9XarcQ8
+    timings:
+    - range: 0-200
+      seconds:
+      - 19.114
   - title: "Stage 4"
     description: "Golf 7R Lader, Downpipe, Ansaugung, Wagner LLK"
     isStock: false
@@ -459,6 +510,54 @@ cars:
       seconds:
       - 8.393
       - 7.739
+- manufacturer: Volkswagen
+  model: "Amarok"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: Tsh6X4tO8Nk
+    timings:
+    - range: 0-100
+      seconds:
+      - 7.911
+- manufacturer: Volkswagen
+  model: "Golf 6 R"
+  transmission: automatic
+  type: front
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: qm-Xr6roydE
+    timings:
+    - range: 0-200
+      seconds:
+      - 24.122
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: tnRKe3KT8_8
+    timings:
+    - range: 0-200
+      seconds:
+      - 17.959
+  - title: "Stage 2"
+    description: "Abgasanlage"
+    isStock: false
+    youtubeId: 6bfxGEOPd4Y
+    timings:
+    - range: 0-200
+      seconds:
+      - 16.664
 - manufacturer: BMW
   model: M2
   transmission: automatic
@@ -492,6 +591,14 @@ cars:
       seconds:
         - 11.965
         - 11.546
+  - title: Ansaugung
+    description: ""
+    isStock: false
+    youtubeId: r1zJYAc2csU
+    timings:
+    - range: 100-200
+      seconds:
+      - 11.461
   - title: Abgasanlage
     description: "AGA + Downpipe + Wagner LLK"
     isStock: false
@@ -501,6 +608,40 @@ cars:
       seconds:
       - 10.145
       - 9.358
+- manufacturer: BMW
+  model: "M4 F82"
+  transmission: manual
+  type: rear
+  images:
+  - url: images/bmw/m4/1.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m4/2.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/bmw/m4/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m4/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: pra3y-bbltM
+    timings:
+    - range: 100-200
+      seconds:
+        - 9.776
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: pra3y-bbltM
+    timings:
+    - range: 100-200
+      seconds:
+        - 8.379
 - manufacturer: Mercedes
   model: C63 AMG
   transmission: automatic
@@ -783,6 +924,30 @@ cars:
       seconds:
       - 15.563
       - 13.604
+- manufacturer: Mini
+  model: "Cooper S"
+  transmission: manual
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: wwWf7-fTmbk
+    timings:
+    - range: 100-150
+      seconds:
+      - 8.023
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: wwWf7-fTmbk
+    timings:
+    - range: 100-150
+      seconds:
+      - 6.626
 - manufacturer: Nissan
   model: "Skyline R34 GT-R"
   transmission: manual
@@ -910,3 +1075,27 @@ cars:
     - range: 100-200
       seconds:
       - 25.200
+- manufacturer: Ferrari
+  model: "458 Speciale"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: RUIT2MJnt3w
+    timings:
+    - range: 100-200
+      seconds:
+      - 7.141
+  - title: "Stage 2"
+    description: "Software, Abgasanlage"
+    isStock: false
+    youtubeId: khz2m9Jur5k
+    timings:
+    - range: 100-200
+      seconds:
+      - 6.947
