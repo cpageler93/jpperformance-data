@@ -1099,3 +1099,39 @@ cars:
     - range: 100-200
       seconds:
       - 6.947
+- manufacturer: Tesla
+  model: "Model S"
+  transmission: automatic
+  type: all
+  images:
+  - url: images/tesla/model_s/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/tesla/model_s/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/tesla/model_s/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/tesla/model_s/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/tesla/model_s/5.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/tesla/model_s/6.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: A8U1bBm4ZQg
+    timings:
+    - range: 0-100
+      seconds:
+      - 3.141
+      - 3.191
+    - range: 100-200
+      seconds:
+      - 9.863
