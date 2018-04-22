@@ -1326,3 +1326,30 @@ cars:
     - range: 100-200
       seconds:
       - 9.863
+- manufacturer: Seat
+  model: "Ibiza FR 6L"
+  transmission: automatic
+  type: all
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: "Ohne Katalysator"
+    isStock: true
+    youtubeId: ezqPEV3OUl8
+    timings:
+    - range: 100-150
+      seconds:
+      - 9.481
+      - 10.830
+  - title: "Stage 1"
+    description: "Ohne Katalysator + Software"
+    isStock: false
+    youtubeId: ezqPEV3OUl8
+    timings:
+    - range: 100-150
+      seconds:
+      - 8.877
+      - 8.832
+      - 8.588
