@@ -785,7 +785,7 @@ cars:
       - 6.631
       - 6.616
 - manufacturer: Mercedes
-  model: C63 AMG
+  model: "C63s AMG"
   transmission: automatic
   type: rear
   images:
@@ -816,6 +816,18 @@ cars:
       seconds:
       - 9.788
       - 9.144
+  - title: "Ansaugung"
+    description: ""
+    isStock: false
+    youtubeId: dO99SfqYlok
+    timings:
+    - range: 0-100
+      seconds:
+      - 4.380
+    - range: 100-200
+      seconds:
+      - 8.976
+      - 8.726
   - title: "Box, Ansaugung"
     description: ""
     isStock: false
@@ -847,6 +859,30 @@ cars:
       seconds:
       - 5.868
       - 5.483
+- manufacturer: Mercedes
+  model: "C63s AMG"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: L3U8SwS8gN8
+    timings:
+    - range: 150-220
+      seconds:
+      - 8.813
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: L3U8SwS8gN8
+    timings:
+    - range: 150-220
+      seconds:
+      - 6.659
 - manufacturer: Lexus
   model: RC-F
   transmission: automatic
