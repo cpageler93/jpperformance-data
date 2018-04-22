@@ -353,6 +353,30 @@ cars:
       seconds:
       - 14.320
       - 14.232
+- manufacturer: Audi
+  model: "R8 V10"
+  transmission: manual
+  type: all
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: oJ26vOmST0U
+    timings:
+    - range: 50-150
+      seconds:
+      - 7.373
+  - title: "Stage 1"
+    description: "Software + Abgasanlage"
+    isStock: false
+    youtubeId: oJ26vOmST0U
+    timings:
+    - range: 50-150
+      seconds:
+      - 7.005
 - manufacturer: Volkswagen
   model: "Golf 4 TDI"
   transmission: manual
