@@ -1208,6 +1208,34 @@
       ]
     },
     {
+      "manufacturer": "BMW",
+      "model": "M6",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "Serie + Ansaugung",
+          "isStock": true,
+          "youtubeId": "HiqvGjo37yE",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                7.599
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Mercedes",
       "model": "C63 AMG",
       "transmission": "automatic",
