@@ -337,7 +337,7 @@ cars:
     main: true
   stages:
   - title: "Serie"
-    description: "e"
+    description: ""
     isStock: true
     youtubeId: Oxk_SzH49-A
     timings:
