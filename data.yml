@@ -328,6 +328,31 @@ cars:
       - 5.149
       - 5.245
       - 4.789
+- manufacturer: Audi
+  model: "Q7 V12 TDO"
+  transmission: manual
+  type: front
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: "e"
+    isStock: true
+    youtubeId: Oxk_SzH49-A
+    timings:
+    - range: 100-200
+      seconds:
+      - 15.5
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: Oxk_SzH49-A
+    timings:
+    - range: 100-200
+      seconds:
+      - 14.320
+      - 14.232
 - manufacturer: Volkswagen
   model: "Golf 4 TDI"
   transmission: manual
