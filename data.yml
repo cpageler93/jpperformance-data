@@ -925,6 +925,38 @@ cars:
       - 10.001
       - 8.918
       - 8.986
+- manufacturer: Ford
+  model: "Fiesta ST MK7"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Downpipe + Ansaugung"
+    description: "Seriensoftware"
+    isStock: false
+    youtubeId: nemEiPUMy_g
+    timings:
+    - range: 0-100
+      seconds:
+      - 7.444
+      - 7.076
+    - range: 100-150
+      seconds:
+      - 7.005
+  - title: "Stage 3"
+    description: "Software + Downpipe + Ansaugung + Ladeluftkühler"
+    isStock: false
+    youtubeId: nemEiPUMy_g
+    timings:
+    - range: 0-100
+      seconds:
+      - 6.121
+    - range: 100-150
+      seconds:
+      - 6.948
+      - 6.560
 - manufacturer: FIAT
   model: Multipla
   transmission: manual
