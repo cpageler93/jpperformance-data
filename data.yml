@@ -719,13 +719,31 @@ cars:
     main: true
   stages:
   - title: "Serie"
-    description: "Serie + Ansaugung"
+    description: ""
     isStock: true
+    youtubeId: P0FVbLQPE8k
+    timings:
+    - range: 100-200
+      seconds:
+      - 8.377
+  - title: "Ansaugung"
+    description: ""
+    isStock: false
     youtubeId: HiqvGjo37yE
     timings:
     - range: 100-200
       seconds:
       - 7.599
+  - title: "JB4"
+    description: "Box"
+    isStock: false
+    youtubeId: P0FVbLQPE8k
+    timings:
+    - range: 100-200
+      seconds:
+      - 6.777
+      - 6.631
+      - 6.616
 - manufacturer: Mercedes
   model: C63 AMG
   transmission: automatic
