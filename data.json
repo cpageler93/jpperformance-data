@@ -1065,6 +1065,76 @@
       ]
     },
     {
+      "manufacturer": "Volkswagen",
+      "model": "Golf 7R",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Stage X",
+          "description": "JB4 Map 0",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                14.84
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage X",
+          "description": "JB4 Map 6",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                11.938
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage X + Ansaugung",
+          "description": "JB4 Map 0 + Eventuri Ansaugung",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                14.139
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage X + Ansaugung",
+          "description": "JB4 Map 6 + Eventuri Ansaugung",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                11.828
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "BMW",
       "model": "M2",
       "transmission": "automatic",
