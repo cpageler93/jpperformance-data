@@ -377,6 +377,25 @@ cars:
     - range: 50-150
       seconds:
       - 7.005
+- manufacturer: Audi
+  model: "TT 1.8T Quattro"
+  transmission: manual
+  type: all
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: "Projekt Upgewixxt: Spender"
+    isStock: true
+    youtubeId: MuhVx_ylSZc
+    timings:
+    - range: 0-100
+      seconds:
+      - 8.083
+    - range: 100-200
+      seconds:
+      - 35.400
 - manufacturer: Volkswagen
   model: "Golf 4 TDI"
   transmission: manual
