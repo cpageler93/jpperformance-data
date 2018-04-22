@@ -737,6 +737,23 @@ cars:
       seconds:
       - 7.545
       - 6.192
+- manufacturer: Mercedes
+  model: "E63 AMG"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Stage 2"
+    description: "Upgradelader"
+    isStock: false
+    youtubeId: Oh5gmcUUgyk
+    timings:
+    - range: 100-200
+      seconds:
+      - 5.868
+      - 5.483
 - manufacturer: Lexus
   model: RC-F
   transmission: automatic
