@@ -556,9 +556,9 @@
     },
     {
       "manufacturer": "Audi",
-      "model": "Q7 V12 TDO",
-      "transmission": "manual",
-      "type": "front",
+      "model": "Q7 V12 TDI",
+      "transmission": "automatic",
+      "type": "all",
       "images": [
         {
           "url": "images/no_image.jpg",
