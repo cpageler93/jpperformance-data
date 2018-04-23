@@ -396,6 +396,34 @@ cars:
     - range: 100-200
       seconds:
       - 35.400
+- manufacturer: Audi
+  model: "R8 V8"
+  transmission: manual
+  type: all
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: 6oL4kA_3sb8
+    timings:
+    - range: 50-150
+      seconds:
+      - 8.802
+      - 8.810
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: -1Ag8lTTc3A
+    timings:
+    - range: 50-150
+      seconds:
+      - 7.939
+    - range: 0-200
+      seconds:
+      - 15.752
 - manufacturer: Volkswagen
   model: "Golf 4 TDI"
   transmission: manual
