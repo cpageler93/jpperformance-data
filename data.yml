@@ -1218,6 +1218,33 @@ cars:
     - range: 0-100
       seconds:
       - 4.672
+- manufacturer: Ford
+  model: "Focus ST"
+  transmission: manual
+  type: all
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: 66QtMlRLSEg
+    timings:
+    - range: 50-150
+      seconds:
+      - 11.294
+      - 11.284
+      - 11.820
+  - title: "Stage 1"
+    description: "Software + Abgasanlage"
+    isStock: false
+    youtubeId: 66QtMlRLSEg
+    timings:
+    - range: 50-150
+      seconds:
+      - 10.777
+      - 10.091
 - manufacturer: FIAT
   model: Multipla
   transmission: manual
