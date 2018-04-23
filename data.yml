@@ -1086,6 +1086,82 @@ cars:
       seconds:
       - 6.948
       - 6.560
+- manufacturer: Ford
+  model: "Focus RS"
+  transmission: manual
+  type: all
+  images:
+  - url: images/ford/focus_rs/1.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/ford/focus_rs/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/ford/focus_rs/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/ford/focus_rs/4.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/ford/focus_rs/5.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/ford/focus_rs/6.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: "Serie + Ansaugung"
+    isStock: true
+    youtubeId: eLJZ_zMA_GI
+    timings:
+    - range: 100-180
+      seconds:
+      - 10.581
+    - range: 100-200
+      seconds:
+      - 16.954
+      - 14.656
+    - range: 0-100
+      seconds:
+      - 5.261
+  - title: "Stage 1 (Box)"
+    description: "Box, Ansaugung"
+    isStock: false
+    youtubeId: eLJZ_zMA_GI
+    timings:
+    - range: 100-180
+      seconds:
+      - 8.844
+    - range: 100-200
+      seconds:
+      - 13.047
+    - range: 0-100
+      seconds:
+      - 4.797
+  - title: "Stage 2"
+    description: "Downpipe, Box, Ansaugung"
+    isStock: false
+    youtubeId: Toi4tiLiZtw
+    timings:
+    - range: 100-180
+      seconds:
+      - 8.917
+    - range: 0-100
+      seconds:
+      - 4.478
+      - 4.333
+  - title: "Stage 2 (Software)"
+    description: "Wastegate, Software, Downpipe, Ansaugung"
+    isStock: false
+    youtubeId: DA4CjfRsC8Q
+    timings:
+    - range: 100-200
+      seconds:
+      - 12.001
+    - range: 0-100
+      seconds:
+      - 4.672
 - manufacturer: FIAT
   model: Multipla
   transmission: manual
