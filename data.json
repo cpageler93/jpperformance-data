@@ -555,6 +555,125 @@
       ]
     },
     {
+      "manufacturer": "Audi",
+      "model": "Q7 V12 TDI",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "Oxk_SzH49-A",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                15.5
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Software",
+          "isStock": false,
+          "youtubeId": "Oxk_SzH49-A",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                14.32,
+                14.232
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "R8 V10",
+      "transmission": "manual",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "oJ26vOmST0U",
+          "timings": [
+            {
+              "range": "50-150",
+              "seconds": [
+                7.373
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Software + Abgasanlage",
+          "isStock": false,
+          "youtubeId": "oJ26vOmST0U",
+          "timings": [
+            {
+              "range": "50-150",
+              "seconds": [
+                7.005
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "TT 1.8T Quattro",
+      "transmission": "manual",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "Projekt Upgewixxt: Spender",
+          "isStock": true,
+          "youtubeId": "MuhVx_ylSZc",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                8.083
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                35.4
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Volkswagen",
       "model": "Golf 4 TDI",
       "transmission": "manual",
@@ -946,6 +1065,76 @@
       ]
     },
     {
+      "manufacturer": "Volkswagen",
+      "model": "Golf 7R",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Stage X",
+          "description": "JB4 Map 0",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                14.84
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage X",
+          "description": "JB4 Map 6",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                11.938
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage X + Ansaugung",
+          "description": "JB4 Map 0 + Eventuri Ansaugung",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                14.139
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage X + Ansaugung",
+          "description": "JB4 Map 6 + Eventuri Ansaugung",
+          "isStock": false,
+          "youtubeId": "F2V_kFb7xyU",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                11.828
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "BMW",
       "model": "M2",
       "transmission": "automatic",
@@ -1089,8 +1278,66 @@
       ]
     },
     {
+      "manufacturer": "BMW",
+      "model": "M6",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "P0FVbLQPE8k",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                8.377
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ansaugung",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "HiqvGjo37yE",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                7.599
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JB4",
+          "description": "Box",
+          "isStock": false,
+          "youtubeId": "P0FVbLQPE8k",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                6.777,
+                6.631,
+                6.616
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Mercedes",
-      "model": "C63 AMG",
+      "model": "C63s AMG",
       "transmission": "automatic",
       "type": "rear",
       "images": [
@@ -1140,6 +1387,27 @@
           ]
         },
         {
+          "title": "Ansaugung",
+          "description": "",
+          "isStock": false,
+          "youtubeId": "dO99SfqYlok",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                4.38
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                8.976,
+                8.726
+              ]
+            }
+          ]
+        },
+        {
           "title": "Box, Ansaugung",
           "description": "",
           "isStock": false,
@@ -1158,6 +1426,77 @@
               "seconds": [
                 7.545,
                 6.192
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Mercedes",
+      "model": "E63 AMG",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Stage 2",
+          "description": "Upgradelader",
+          "isStock": false,
+          "youtubeId": "Oh5gmcUUgyk",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                5.868,
+                5.483
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Mercedes",
+      "model": "C63s AMG",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "L3U8SwS8gN8",
+          "timings": [
+            {
+              "range": "150-220",
+              "seconds": [
+                8.813
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Software",
+          "isStock": false,
+          "youtubeId": "L3U8SwS8gN8",
+          "timings": [
+            {
+              "range": "150-220",
+              "seconds": [
+                6.659
               ]
             }
           ]
@@ -1446,6 +1785,62 @@
                 10.001,
                 8.918,
                 8.986
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Ford",
+      "model": "Fiesta ST MK7",
+      "transmission": "automatic",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Downpipe + Ansaugung",
+          "description": "Seriensoftware",
+          "isStock": false,
+          "youtubeId": "nemEiPUMy_g",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                7.444,
+                7.076
+              ]
+            },
+            {
+              "range": "100-150",
+              "seconds": [
+                7.005
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 3",
+          "description": "Software + Downpipe + Ansaugung + Ladeluftkühler",
+          "isStock": false,
+          "youtubeId": "nemEiPUMy_g",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                6.121
+              ]
+            },
+            {
+              "range": "100-150",
+              "seconds": [
+                6.948,
+                6.56
               ]
             }
           ]
@@ -1850,6 +2245,112 @@
               "range": "100-200",
               "seconds": [
                 6.947
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Tesla",
+      "model": "Model S",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/tesla/model_s/1.jpg",
+          "main": true,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/tesla/model_s/2.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/tesla/model_s/3.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/tesla/model_s/4.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/tesla/model_s/5.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/tesla/model_s/6.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "A8U1bBm4ZQg",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                3.141,
+                3.191
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                9.863
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Seat",
+      "model": "Ibiza FR 6L",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "Ohne Katalysator",
+          "isStock": true,
+          "youtubeId": "ezqPEV3OUl8",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                9.481,
+                10.83
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Ohne Katalysator + Software",
+          "isStock": false,
+          "youtubeId": "ezqPEV3OUl8",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                8.877,
+                8.832,
+                8.588
               ]
             }
           ]
