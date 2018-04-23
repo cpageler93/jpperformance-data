@@ -784,6 +784,34 @@ cars:
       - 6.777
       - 6.631
       - 6.616
+- manufacturer: BMW
+  model: "114i F20"
+  transmission: manual
+  type: rear
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: -8_q-HUcrfc
+    timings:
+    - range: 100-150
+      seconds:
+      - 25.200
+      - 16.200
+      - 18.000
+  - title: "Stage 1"
+    description: "Software"
+    isStock: false
+    youtubeId: -8_q-HUcrfc
+    timings:
+    - range: 100-150
+      seconds:
+      - 11.000
+      - 9.220
+      - 13.100
 - manufacturer: Mercedes
   model: "C63s AMG"
   transmission: automatic

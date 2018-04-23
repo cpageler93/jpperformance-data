@@ -1336,6 +1336,52 @@
       ]
     },
     {
+      "manufacturer": "BMW",
+      "model": "114i F20",
+      "transmission": "manual",
+      "type": "rear",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "-8_q-HUcrfc",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                25.2,
+                16.2,
+                18.0
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 1",
+          "description": "Software",
+          "isStock": false,
+          "youtubeId": "-8_q-HUcrfc",
+          "timings": [
+            {
+              "range": "100-150",
+              "seconds": [
+                11.0,
+                9.22,
+                13.1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "manufacturer": "Mercedes",
       "model": "C63s AMG",
       "transmission": "automatic",
