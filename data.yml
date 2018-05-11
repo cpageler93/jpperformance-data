@@ -152,6 +152,32 @@ cars:
       - 8.900
       - 8.600
 - manufacturer: Porsche
+  model: "959 S"
+  transmission: manual
+  type: all
+  images:
+  - url: images/porsche/959s/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/porsche/959s/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/959s/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: DawIo2PCqBY
+    timings:
+    - range: 0-100
+      seconds:
+      - 3.903
+    - range: 100-200
+      seconds:
+      - 7.760
+- manufacturer: Porsche
   model: "991 Turbo S"
   transmission: automatic
   type: rear
