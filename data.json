@@ -5,6 +5,12 @@
     },
     "audiDe": {
       "title": "audi.de"
+    },
+    "weltDe": {
+      "title": "welt.de"
+    },
+    "newsroomPoscheCom": {
+      "title": "newsroom.porsche.com"
     }
   },
   "cars": [
@@ -336,6 +342,48 @@
               "range": "0-200",
               "seconds": [
                 9.587
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "Panamera Turbo S E-Hybrid Sport Turismo",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/porsche/panamera_turbo_s_e_hybrid/1.jpg",
+          "main": true,
+          "source": "weltDe"
+        },
+        {
+          "url": "images/porsche/panamera_turbo_s_e_hybrid/2.jpg",
+          "main": false,
+          "source": "newsroomPoscheCom"
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "W6T3UK9nxi4",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                3.8
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                8.7,
+                8.4,
+                8.1
               ]
             }
           ]
@@ -2496,12 +2544,17 @@
       "images": [
         {
           "url": "images/toyota/gt86/1.jpg",
-          "main": true,
+          "main": false,
           "source": "youtubeJPPerformance"
         },
         {
           "url": "images/toyota/gt86/2.jpg",
           "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/toyota/gt86/3.jpg",
+          "main": true,
           "source": "youtubeJPPerformance"
         }
       ],
@@ -2522,6 +2575,20 @@
               "range": "100-200",
               "seconds": [
                 25.2
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage 2",
+          "description": "Krümmer, Abgasanlage, Ansaugung, Software",
+          "isStock": false,
+          "youtubeId": "mr2TWyiJgww",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                22.1
               ]
             }
           ]
