@@ -5,6 +5,9 @@
     },
     "audiDe": {
       "title": "audi.de"
+    },
+    "weltDe": {
+      "title": "welt.de"
     }
   },
   "cars": [
@@ -336,6 +339,43 @@
               "range": "0-200",
               "seconds": [
                 9.587
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "Panamera Turbo S E-Hybrid Sport Turismo",
+      "transmission": "automatic",
+      "type": "all",
+      "images": [
+        {
+          "url": "images/porsche/panamera_turbo_s_e_hybrid/1.jpg",
+          "main": true,
+          "source": "weltDe"
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "W6T3UK9nxi4",
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                3.8
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                8.7,
+                8.4,
+                8.1
               ]
             }
           ]
