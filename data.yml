@@ -6,6 +6,8 @@ sources:
     title: "audi.de"
   weltDe:
     title: "welt.de"
+  newsroomPoscheCom:
+    title: "newsroom.porsche.com"
 cars:
 - manufacturer: Porsche
   model: "964"
@@ -212,6 +214,9 @@ cars:
   - url: images/porsche/panamera_turbo_s_e_hybrid/1.jpg
     main: true
     source: weltDe
+  - url: images/porsche/panamera_turbo_s_e_hybrid/2.jpg
+    main: false
+    source: newsroomPoscheCom
   stages:
   - title: "Serie"
     description: ""
@@ -1494,10 +1499,13 @@ cars:
   type: rear
   images:
   - url: images/toyota/gt86/1.jpg
-    main: true
+    main: false
     source: youtubeJPPerformance
   - url: images/toyota/gt86/2.jpg
     main: false
+    source: youtubeJPPerformance
+  - url: images/toyota/gt86/3.jpg
+    main: true
     source: youtubeJPPerformance
   stages:
   - title: "Serie"
