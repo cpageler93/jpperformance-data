@@ -1487,6 +1487,14 @@ cars:
     - range: 100-200
       seconds:
       - 25.200
+  - title: "Stage 2"
+    description: "Krümmer, Abgasanlage, Ansaugung, Software"
+    isStock: false
+    youtubeId: mr2TWyiJgww
+    timings:
+    - range: 100-200
+      seconds:
+      - 22.100
 - manufacturer: Ferrari
   model: "458 Speciale"
   transmission: automatic
