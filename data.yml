@@ -1090,6 +1090,32 @@ cars:
       - 10.183
       - 10.393
       - 10.363
+- manufacturer: Lexus
+  model: "LC 500"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/lexus/lc500/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/lexus/lc500/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: Serie
+    description: ""
+    isStock: true
+    youtubeId: JrW8k4O_mzE
+    ps: 447.30
+    nm: 546.6
+    timings:
+    - range: 0-100
+      seconds:
+      - 5.900
+      - 5.400
+    - range: 100-200
+      seconds:
+      - 
 - manufacturer: Ford
   model: "Mustang GT"
   transmission: manual
