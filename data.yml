@@ -834,6 +834,42 @@ cars:
       seconds:
         - 8.379
 - manufacturer: BMW
+  model: "M4 F82 DKG"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/bmw/m4_dkg/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/bmw/m4_dkg/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m4_dkg/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Stage 1"
+    description: "Software (Evolve ECU Remap)"
+    isStock: false
+    youtubeId: v-6BX6LNC8s
+    ps: 507.53
+    nm: 766.61
+    timings:
+    - range: 100-200
+      seconds:
+        - 7.700
+        - 7.100
+  - title: "Ansaugung"
+    description: "Eventuri Ansaugung + Sturz"
+    isStock: false
+    youtubeId: v-6BX6LNC8s
+    ps: 516.27
+    nm: 765.03
+    timings:
+    - range: 100-200
+      seconds:
+        - 7.600
+- manufacturer: BMW
   model: "M6"
   transmission: automatic
   type: rear
