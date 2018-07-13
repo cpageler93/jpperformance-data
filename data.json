@@ -93,6 +93,8 @@
           "description": "K&N Luftfilter + Felgen",
           "isStock": false,
           "youtubeId": "i_jIaDN3Owk",
+          "ps": 294.53,
+          "nm": 361.55,
           "timings": [
             {
               "range": "0-100",
