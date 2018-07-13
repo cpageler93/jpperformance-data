@@ -1126,6 +1126,8 @@ cars:
     description: "Papierluftfilter, Fächerkrümmer, Armytrix, Zwischensteuergerät (Aufhebung der Geschw. Begr.)"
     isStock: false
     youtubeId: 2Zp-Qm3wJkA
+    ps: 462.93
+    nm: 552.71
     timings:
     - range: 100-200
       seconds:
