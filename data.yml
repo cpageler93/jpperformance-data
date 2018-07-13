@@ -542,6 +542,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: q9llNVNdSiU
+    ps: 311.21
+    nm: 545.85
     timings:
     - range: 100-200
       seconds:
