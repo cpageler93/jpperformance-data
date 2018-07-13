@@ -821,6 +821,8 @@ cars:
     description: ""
     isStock: true
     youtubeId: pra3y-bbltM
+    ps: 420.0
+    nm: 516.0
     timings:
     - range: 100-200
       seconds:
@@ -829,6 +831,8 @@ cars:
     description: "Software"
     isStock: false
     youtubeId: pra3y-bbltM
+    ps: 497.0
+    nm: 739.0
     timings:
     - range: 100-200
       seconds:
