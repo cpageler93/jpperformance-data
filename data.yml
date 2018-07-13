@@ -749,6 +749,19 @@ cars:
     - range: 100-200
       seconds:
       - 11.828
+- manufacturer: Volkswagen
+  model: "UP"
+  transmission: manual
+  type: front
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "1.8T Motor"
+    description: "Motor Swap aus dem Audi TT 1.8T"
+    isStock: false
+    youtubeId: J7VLnh83ysM
+    ps: 188.0
 - manufacturer: BMW
   model: M2
   transmission: automatic

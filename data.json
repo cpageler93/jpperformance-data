@@ -1277,6 +1277,27 @@
       ]
     },
     {
+      "manufacturer": "Volkswagen",
+      "model": "UP",
+      "transmission": "manual",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/no_image.jpg",
+          "main": true
+        }
+      ],
+      "stages": [
+        {
+          "title": "1.8T Motor",
+          "description": "Motor Swap aus dem Audi TT 1.8T",
+          "isStock": false,
+          "youtubeId": "J7VLnh83ysM",
+          "ps": 188.0
+        }
+      ]
+    },
+    {
       "manufacturer": "BMW",
       "model": "M2",
       "transmission": "automatic",
@@ -1394,6 +1415,8 @@
           "description": "",
           "isStock": true,
           "youtubeId": "pra3y-bbltM",
+          "ps": 420.0,
+          "nm": 516.0,
           "timings": [
             {
               "range": "100-200",
@@ -1408,6 +1431,8 @@
           "description": "Software",
           "isStock": false,
           "youtubeId": "pra3y-bbltM",
+          "ps": 497.0,
+          "nm": 739.0,
           "timings": [
             {
               "range": "100-200",
