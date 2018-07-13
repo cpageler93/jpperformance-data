@@ -1215,6 +1215,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: nw-N2Uy-tB0
+    ps: 744.72
+    nm: 788.60
     timings:
     - range: 100-200
       seconds:
@@ -1223,6 +1225,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: KzkPFPTGfQo
+    ps: 682.26
+    nm: 735.82
     timings:
     - range: 0-100
       seconds:
