@@ -1370,6 +1370,18 @@
           "description": "AGA + Downpipe + Wagner LLK",
           "isStock": false,
           "youtubeId": "ug_88WVn4gQ",
+          "ps": 378.0,
+          "nm": 527.0,
+          "videos": [
+            {
+              "title": "GPS Box",
+              "youtubeId": "ug_88WVn4gQ"
+            },
+            {
+              "title": "Prüfstand",
+              "youtubeId": "m9yLHClts_w"
+            }
+          ],
           "timings": [
             {
               "range": "100-200",
