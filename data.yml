@@ -955,6 +955,30 @@ cars:
       - 11.000
       - 9.220
       - 13.100
+- manufacturer: BMW
+  model: "M3 E30"
+  transmission: manual
+  type: rear
+  images:
+  - url: images/bmw/m3_e30/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/bmw/m3_e30/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m3_e30/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m3_e30/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "??"
+    description: ""
+    isStock: false
+    youtubeId: RclvhLSrQFA
+    ps: 724.21
+    nm: 701.54
 - manufacturer: Mercedes
   model: "C63s AMG"
   transmission: automatic
