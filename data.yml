@@ -58,6 +58,8 @@ cars:
     description: "K&N Luftfilter + Felgen"
     isStock: false
     youtubeId: i_jIaDN3Owk
+    ps: 294.53
+    nm: 361.55
     timings:
     - range: 0-100
       seconds:
@@ -231,6 +233,39 @@ cars:
       - 8.700
       - 8.400
       - 8.100
+- manufacturer: Porsche
+  model: "GT2 RS"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/porsche/gt2_rs/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/porsche/gt2_rs/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/gt2_rs/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/gt2_rs/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: mYDP3qLlyTE
+    timings:
+    - range: 0-100
+      seconds:
+      - 2.800
+      - 3.000
+      - 2.760
+    - range: 100-200
+      seconds:
+      - 5.600
+      - 5.500
+      - 5.700
 - manufacturer: Audi
   model: "R8 V10 Plus"
   transmission: automatic
@@ -542,6 +577,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: q9llNVNdSiU
+    ps: 311.21
+    nm: 545.85
     timings:
     - range: 100-200
       seconds:
@@ -585,6 +622,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: wLY89119Yhs
+    ps: 509.84
+    nm: 629.54
     timings:
     - range: 100-200
       seconds:
@@ -749,6 +788,19 @@ cars:
     - range: 100-200
       seconds:
       - 11.828
+- manufacturer: Volkswagen
+  model: "UP"
+  transmission: manual
+  type: front
+  images:
+  - url: images/no_image.jpg
+    main: true
+  stages:
+  - title: "1.8T Motor"
+    description: "Motor Swap aus dem Audi TT 1.8T"
+    isStock: false
+    youtubeId: J7VLnh83ysM
+    ps: 188.0
 - manufacturer: BMW
   model: M2
   transmission: automatic
@@ -794,6 +846,13 @@ cars:
     description: "AGA + Downpipe + Wagner LLK"
     isStock: false
     youtubeId: ug_88WVn4gQ
+    ps: 378.0
+    nm: 527.0
+    videos:
+    - title: "GPS Box"
+      youtubeId: ug_88WVn4gQ
+    - title: "Prüfstand"
+      youtubeId: m9yLHClts_w
     timings:
     - range: 100-200
       seconds:
@@ -821,6 +880,8 @@ cars:
     description: ""
     isStock: true
     youtubeId: pra3y-bbltM
+    ps: 420.0
+    nm: 516.0
     timings:
     - range: 100-200
       seconds:
@@ -829,6 +890,8 @@ cars:
     description: "Software"
     isStock: false
     youtubeId: pra3y-bbltM
+    ps: 497.0
+    nm: 739.0
     timings:
     - range: 100-200
       seconds:
@@ -931,6 +994,30 @@ cars:
       - 11.000
       - 9.220
       - 13.100
+- manufacturer: BMW
+  model: "M3 E30"
+  transmission: manual
+  type: rear
+  images:
+  - url: images/bmw/m3_e30/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/bmw/m3_e30/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m3_e30/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/bmw/m3_e30/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "??"
+    description: ""
+    isStock: false
+    youtubeId: RclvhLSrQFA
+    ps: 724.21
+    nm: 701.54
 - manufacturer: Mercedes
   model: "C63s AMG"
   transmission: automatic
@@ -1076,6 +1163,8 @@ cars:
     description: "Papierluftfilter, Fächerkrümmer, Armytrix, Zwischensteuergerät (Aufhebung der Geschw. Begr.)"
     isStock: false
     youtubeId: 2Zp-Qm3wJkA
+    ps: 462.93
+    nm: 552.71
     timings:
     - range: 100-200
       seconds:
@@ -1191,6 +1280,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: nw-N2Uy-tB0
+    ps: 744.72
+    nm: 788.60
     timings:
     - range: 100-200
       seconds:
@@ -1199,6 +1290,8 @@ cars:
     description: ""
     isStock: false
     youtubeId: KzkPFPTGfQo
+    ps: 682.26
+    nm: 735.82
     timings:
     - range: 0-100
       seconds:
