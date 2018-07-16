@@ -233,6 +233,39 @@ cars:
       - 8.700
       - 8.400
       - 8.100
+- manufacturer: Porsche
+  model: "GT2 RS"
+  transmission: automatic
+  type: rear
+  images:
+  - url: images/porsche/gt2_rs/1.jpg
+    main: true
+    source: youtubeJPPerformance
+  - url: images/porsche/gt2_rs/2.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/gt2_rs/3.jpg
+    main: false
+    source: youtubeJPPerformance
+  - url: images/porsche/gt2_rs/4.jpg
+    main: false
+    source: youtubeJPPerformance
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: mYDP3qLlyTE
+    timings:
+    - range: 0-100
+      seconds:
+      - 2.800
+      - 3.000
+      - 2.760
+    - range: 100-200
+      seconds:
+      - 5.600
+      - 5.500
+      - 5.700
 - manufacturer: Audi
   model: "R8 V10 Plus"
   transmission: automatic
