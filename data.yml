@@ -8,6 +8,8 @@ sources:
     title: "welt.de"
   newsroomPoscheCom:
     title: "newsroom.porsche.com"
+  chevroletCom:
+    title: "chevrolet.com"
 cars:
 - manufacturer: Porsche
   model: "964"
@@ -1772,3 +1774,27 @@ cars:
       - 8.877
       - 8.832
       - 8.588
+- manufacturer: Chevrolet
+  model: "Corvette C7 Z06"
+  transmission: manual
+  type: rear
+  images:
+  - url: images/chevrolet/c7_z06/1.jpg
+    main: true
+    source: chevroletCom
+  stages:
+  - title: "Serie"
+    description: ""
+    isStock: true
+    youtubeId: 0tSYS7tRsqI
+    ps: 639.0
+    nm: 807.9
+    timings:
+    - range: 0-100
+      seconds:
+      - 3.577
+      - 4.869
+    - range: 100-200
+      seconds:
+      - 7.014
+      - 6.956
