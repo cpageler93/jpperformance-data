@@ -932,6 +932,12 @@ cars:
     - range: 100-200
       seconds:
         - 7.600
+  - title: "LLK"
+    description: "CSF Wasser Ladeluftkühler"
+    isStock: false
+    youtubeId: j5uCv5_0B2U
+    ps: 511.0
+    nm: 751.0
 - manufacturer: BMW
   model: "M6"
   transmission: automatic
