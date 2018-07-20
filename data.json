@@ -210,6 +210,22 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Ladeluftkühler",
+          "description": "Wagner Ladeluftkühler, Messung bei hoher Außentemperatur",
+          "isStock": false,
+          "youtubeId": "2mJdOu9PxBI",
+          "timings": [
+            {
+              "range": "100-200",
+              "seconds": [
+                6.643,
+                5.571,
+                5.313
+              ]
+            }
+          ]
         }
       ]
     },
