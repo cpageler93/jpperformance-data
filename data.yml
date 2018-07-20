@@ -128,6 +128,16 @@ cars:
       - 5.500
       - 5.300
       - 5.200
+  - title: "Ladeluftkühler"
+    description: "Wagner Ladeluftkühler, Messung bei hoher Außentemperatur"
+    isStock: false
+    youtubeId: 2mJdOu9PxBI
+    timings:
+    - range: 100-200
+      seconds:
+      - 6.643
+      - 5.571
+      - 5.313
 - manufacturer: Porsche
   model: "959"
   transmission: manual
