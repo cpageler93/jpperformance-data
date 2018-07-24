@@ -3024,6 +3024,26 @@
           "url": "images/chevrolet/c7_z06/1.jpg",
           "main": true,
           "source": "chevroletCom"
+        },
+        {
+          "url": "images/chevrolet/c7_z06/2.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/chevrolet/c7_z06/3.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/chevrolet/c7_z06/4.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/chevrolet/c7_z06/5.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
         }
       ],
       "stages": [
