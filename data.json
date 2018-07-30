@@ -2308,6 +2308,55 @@
     },
     {
       "manufacturer": "Ford",
+      "model": "Fiesta ST MK8",
+      "transmission": "manual",
+      "type": "front",
+      "images": [
+        {
+          "url": "images/ford/fiesta_st_mk_8/1.jpg",
+          "main": true,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/ford/fiesta_st_mk_8/2.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        },
+        {
+          "url": "images/ford/fiesta_st_mk_8/3.jpg",
+          "main": false,
+          "source": "youtubeJPPerformance"
+        }
+      ],
+      "stages": [
+        {
+          "title": "Serie",
+          "description": "",
+          "isStock": true,
+          "youtubeId": "ppsUOyIELc8",
+          "ps": 205.0,
+          "nm": 312.0,
+          "timings": [
+            {
+              "range": "0-100",
+              "seconds": [
+                7.5,
+                7.1,
+                7.0
+              ]
+            },
+            {
+              "range": "100-200",
+              "seconds": [
+                20.9
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manufacturer": "Ford",
       "model": "Focus RS",
       "transmission": "manual",
       "type": "all",
