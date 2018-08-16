@@ -1856,3 +1856,14 @@ cars:
       seconds:
       - 7.014
       - 6.956
+  - title: "Ansaugung"
+    description: "Mit einer anderen Messuhr gemessen"
+    isStock: false
+    youtubeId: 0b4qK92EIWc
+    ps: 660.0
+    nm: 819.0
+    timings:
+    - range: 100-200
+      seconds:
+      - 7.100
+
