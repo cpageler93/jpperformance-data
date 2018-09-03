@@ -316,6 +316,14 @@ cars:
       seconds:
       - 7.500
       - 7.200
+  - title: Turbo
+    description: ""
+    isStock: false
+    youtubeId: 06JxYBSLOeE
+    timings:
+    - range: 100-200
+      seconds:
+      - 4.800
 - manufacturer: Audi
   model: "A1 1.6 TDI"
   transmission: manual
