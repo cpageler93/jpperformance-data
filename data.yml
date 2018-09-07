@@ -1874,4 +1874,9 @@ cars:
     - range: 100-200
       seconds:
       - 7.100
-
+  - title: "Abgasanlage"
+    description: "Armytrix"
+    isStock: false
+    youtubeId: RQbcooFYTWM
+    ps: 665.40
+    nm: 847.70
