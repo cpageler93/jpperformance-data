@@ -1,5 +1,9 @@
 # JP Performance Car Data
 
+**WARNING**
+**JP FAN APP DATA MOVED TO AN API**
+**DATA FROM THIS REPOSITORY IS NOT USED ANYMORE IN THE NEWEST APP**
+
 ## Structure
 
 Source is data.yml which will be converted to json via ./convert_yml_to_json.sh.
